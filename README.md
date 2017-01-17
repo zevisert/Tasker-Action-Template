@@ -1,0 +1,2 @@
+## Tasker Action Template
+This repository is here to help people who are looking to develop plugin actions for [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) to hit the ground running. It's a buildable and deployable version of the toast project from [Tasker's plugin introduction](https://tasker.dinglisch.net/plugins-intro.html) using the latest version of [Android Studio](https://developer.android.com/studio/index.html).
